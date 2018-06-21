@@ -20,3 +20,14 @@ D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.np
 D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.pdb
 D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm_Title_ID_Patcher.frmMain.resources
 D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.vbprojResolveAssemblyReference.cache
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.exe.config
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.exe
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.xml
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.pdb
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.exe
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.pdb
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.xml
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.vbprojResolveAssemblyReference.cache
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\obj\Debug\main.npdm_Title_ID_Patcher.frmMain.resources
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\obj\Debug\main.npdm_Title_ID_Patcher.Resources.resources
+D:\VB.Net Projects\main.npdm-Title-ID-Patcher\main.npdm-Title-ID-Patcher\trunk\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.vbproj.GenerateResource.Cache

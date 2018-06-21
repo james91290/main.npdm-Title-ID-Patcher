@@ -47,7 +47,8 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>asdasd.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -127,9 +128,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\871377.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="asdasd.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
