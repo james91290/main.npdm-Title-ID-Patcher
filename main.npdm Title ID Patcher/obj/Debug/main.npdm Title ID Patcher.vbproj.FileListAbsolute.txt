@@ -1,0 +1,22 @@
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.exe.config
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.exe
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.pdb
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.xml
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.vbprojResolveAssemblyReference.cache
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\obj\Debug\main.npdm_Title_ID_Patcher.Form1.resources
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\obj\Debug\main.npdm_Title_ID_Patcher.Resources.resources
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.vbproj.GenerateResource.Cache
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.exe
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.xml
+C:\Users\Paul\AppData\Local\Temporary Projects\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.pdb
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.exe.config
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.exe
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.pdb
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\bin\Debug\main.npdm Title ID Patcher.xml
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm_Title_ID_Patcher.Resources.resources
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.vbproj.GenerateResource.Cache
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.exe
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.xml
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.pdb
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm_Title_ID_Patcher.frmMain.resources
+D:\User\Documents\Visual Studio 2017\Projects\main.npdm Title ID Patcher\main.npdm Title ID Patcher\obj\Debug\main.npdm Title ID Patcher.vbprojResolveAssemblyReference.cache
