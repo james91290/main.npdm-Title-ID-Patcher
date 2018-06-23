@@ -131,12 +131,16 @@ Public Class frmMain
 
     Private Sub txtTitleID_TextChanged(sender As Object, e As EventArgs) Handles txtTitleID.TextChanged, txtExefsPath.TextChanged
         On Error Resume Next
+        Dim LastFname As String = Microsoft.VisualBasic.Right(txtExefsPath.Text, Len(txtExefsPath.Text) - Len(Path.GetDirectoryName(txtExefsPath.Text)) - 1)
         Dim pFolder As String = Microsoft.VisualBasic.Left(txtExefsPath.Text, Len(txtExefsPath.Text) - 16)
         Dim isFolderExist As Boolean = False
-        For Each Dir As String In Directory.GetDirectories(pFolder)
-            If Dir.Remove(0, pFolder.Length) = txtTitleID.Text Then isFolderExist = True
-        Next
+        If (New Regex("^[a-fA-F0-9]{16}$")).Match(LastFname).Success Then
+            For Each Dir As String In Directory.GetDirectories(pFolder)
+                If Dir.Remove(0, pFolder.Length) = txtTitleID.Text Then isFolderExist = True
+            Next
+        End If
         If Microsoft.VisualBasic.Right(txtExefsPath.Text, 16) = txtTitleID.Text Or isFolderExist = True Then txtTitleID.ForeColor = Color.Red Else txtTitleID.ForeColor = Color.Black
+
         If txtTitleID.ForeColor = Color.Black And ValidatePath(txtExefsPath.Text) = True And txtTitleID.Text <> "" And
             (New Regex("^[a-fA-F0-9]{16}$")).Match(txtTitleID.Text).Success And btnDelete.Text = "DELETE" Then
             btnPatch.Enabled = True

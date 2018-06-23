@@ -25,3 +25,6 @@
 {"01006E30099B8000", "Pic-a-Pix Deluxe Demo"},
 {"01006EE00AE38000", "Shining Resonance Refrain Demo"},
 {"010090B005150000", "Oceanhorn Demo"},
+{"010093e00acb0000", "Kidd Trip Demo"}
+{"01009cf00a9c4000", "Word Searh by POWGI Demo"}
+{"0100d3000aec2000", "Baobabs Mausoleum: Demo"}
